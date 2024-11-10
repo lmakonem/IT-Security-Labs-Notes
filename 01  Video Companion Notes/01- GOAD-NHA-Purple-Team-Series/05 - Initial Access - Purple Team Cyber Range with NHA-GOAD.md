@@ -54,7 +54,7 @@ Start by scanning the network to identify live hosts and open ports:
 
 `nmap -p- -sC -sV 10.2.10.0/24 -Pn -oA allports.nmap`
 
-![[Pasted image 20241109215231.png]]
+![](../../05%20Images/Pasted%20image%2020241109225509.png)
 
 This command performs a full port scan (`-p-`), service detection (`-sV`), and saves the results in multiple formats (`-oA`).
 
@@ -92,7 +92,7 @@ To escalate privileges, upload a tool like SweetPotato or PrintSpoofer:
 
 This command runs the PrintSpoofer tool, allowing you to escalate privileges from a local user account to SYSTEM.
 
-![[Pasted image 20241109224956.png]]
+![](../../05%20Images/Pasted%20image%2020241109225535.png)
 
 ## ⚠️ **Disclaimer**
 

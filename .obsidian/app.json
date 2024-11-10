@@ -6,5 +6,7 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "05 Images",
-  "promptDelete": true
+  "promptDelete": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
