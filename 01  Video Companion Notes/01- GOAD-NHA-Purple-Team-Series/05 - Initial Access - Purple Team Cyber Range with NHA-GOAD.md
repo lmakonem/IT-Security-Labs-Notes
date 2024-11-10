@@ -5,7 +5,7 @@ This GitHub page is a companion to the fifth video in our **Purple Team Cyber R
 ## 📺 **Watch the Video**
 
 **Video Title**: _05 - Initial Access - Purple Team Cyber Range with NHA-GOAD_  
-[Watch the video on YouTube](https://www.perplexity.ai/search/hello-jPst_9ZTTs.NcfMh.UjY1g#) (Placeholder for video link)
+[Watch the video on YouTube](https://youtu.be/bK5Tnf92O-Y) (Placeholder for video link)
 
 ## 🛠️ **Key Takeaways**
 
