@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6af126196319715f",
+        "id": "a24ac30c66e9972f",
         "type": "tabs",
         "children": [
           {
-            "id": "eeba3cd71248f10c",
+            "id": "3b27ef918d255fc4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/05 - Initial Access - Purple Team Cyber Range with NHA-GOAD.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "05 - Initial Access - Purple Team Cyber Range with NHA-GOAD"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +68,19 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "00b3a85cd232b539",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +110,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +123,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -110,7 +136,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -133,21 +163,38 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "eeba3cd71248f10c",
+  "active": "3b27ef918d255fc4",
   "lastOpenFiles": [
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/04 Purple Team Cyber Range with NHA-GOAD - How to Install Sysmon in Active Directory Lab on Ludus.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/05 - Initial Access - Purple Team Cyber Range with NHA-GOAD.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/01 - How To Setup a Purple Team Cyber Range with NHA-GOAD & Elastic SIEM on Ludis - AUTOMATED.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/02 Purple Team Cyber Range with NHA-GOAD - How To connect To Ludus with Wireguard.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/03 Purple Team Cyber Range with NHA-GOAD - Busted! Default Sliver VS Default Elastic SIEM.md",
+    "02 - Internal.md",
+    "04 - Templates/04 - Template Structure/0403 - Content Header.md",
+    "04 - Templates/04 - Template Structure/0402 - Secondary Category.md",
+    "04 - Templates/04 - Template Structure/0401 - Primary Category.md",
     "04 - Templates/0400 - General Template.md",
+    "03  Scripts and Tools/Obsidian - Getting Started.md",
+    "03  Scripts and Tools/Templater.md",
+    "02 OSEP Study Notes/02 - Obsidian.md",
+    "01 - Video Companion Notes/01 - Pentest.md",
+    "01 - Video Companion Notes/01 - Administration.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series",
+    "Untitled",
+    "README.md",
+    "00 - Global Index.md",
+    "06 - Images/obsidian git settings.png",
+    "06 - Images/obsidian general settings.png",
     "04 - Templates/04 - Template Structure/0409 - Resources.md",
     "04 - Templates/04 - Template Structure/0408 - Personal.md",
     "04 - Templates/04 - Template Structure/0407 - README.md",
     "04 - Templates/04 - Template Structure/0406 - Tool.md",
     "04 - Templates/04 - Template Structure/0405 - Basic.md",
     "04 - Templates/04 - Template Structure/0404 - Metadata.md",
-    "04 - Templates/04 - Template Structure/0403 - Content Header.md",
-    "03 - Content/Obsidian - Git.md",
-    "03 - Content/Templater.md"
+    "03  Scripts and Tools/Obsidian - Git.md"
   ]
 }
