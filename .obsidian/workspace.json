@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/05 - Initial Access - Purple Team Cyber Range with NHA-GOAD.md",
+                "file": "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/06 - Setting Up Persistence With Sliver - Purple Team Cyber Range with NHA-GOAD 1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "05 - Initial Access - Purple Team Cyber Range with NHA-GOAD"
+              "title": "06 - Setting Up Persistence With Sliver - Purple Team Cyber Range with NHA-GOAD 1"
             }
           }
         ]
@@ -168,16 +168,17 @@
   },
   "active": "3b27ef918d255fc4",
   "lastOpenFiles": [
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/04 Purple Team Cyber Range with NHA-GOAD - How to Install Sysmon in Active Directory Lab on Ludus.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/03 Purple Team Cyber Range with NHA-GOAD - Busted! Default Sliver VS Default Elastic SIEM.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/02 Purple Team Cyber Range with NHA-GOAD - How To connect To Ludus with Wireguard.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/01 - How To Setup a Purple Team Cyber Range with NHA-GOAD & Elastic SIEM on Ludis - AUTOMATED.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/06 - Setting Up Persistence With Sliver - Purple Team Cyber Range with NHA-GOAD 1.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/05 - Initial Access - Purple Team Cyber Range with NHA-GOAD.md",
     "05 Images/Pasted image 20241109225535.png",
     "05 Images/Pasted image 20241109225509.png",
     "05 Images/Pasted image 20241109224956.png",
     "05 Images/Pasted image 20241109215231.png",
     "02 OSEP Study Notes/Untitled",
-    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/04 Purple Team Cyber Range with NHA-GOAD - How to Install Sysmon in Active Directory Lab on Ludus.md",
-    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/05 - Initial Access - Purple Team Cyber Range with NHA-GOAD.md",
-    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/01 - How To Setup a Purple Team Cyber Range with NHA-GOAD & Elastic SIEM on Ludis - AUTOMATED.md",
-    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/02 Purple Team Cyber Range with NHA-GOAD - How To connect To Ludus with Wireguard.md",
-    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/03 Purple Team Cyber Range with NHA-GOAD - Busted! Default Sliver VS Default Elastic SIEM.md",
     "02 - Internal.md",
     "04 - Templates/04 - Template Structure/0403 - Content Header.md",
     "04 - Templates/04 - Template Structure/0402 - Secondary Category.md",
