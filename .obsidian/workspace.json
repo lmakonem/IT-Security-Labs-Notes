@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/07-  Adding Adaptix C2 to NHA-GOAD Lab.md",
-                "mode": "preview",
+                "file": "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/10 - Bypassing Windows Defender with hide-payload-in-images + Adaptix C2.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "07-  Adding Adaptix C2 to NHA-GOAD Lab"
+              "title": "10 - Bypassing Windows Defender with hide-payload-in-images + Adaptix C2"
             }
           }
         ]
@@ -168,11 +168,24 @@
   },
   "active": "116044cf2f54e250",
   "lastOpenFiles": [
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/11 - Credential Dumping with BOF Extracting Hashes from SQL Server via Adaptix C2.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/10 - Bypassing Windows Defender with hide-payload-in-images + Adaptix C2.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/09-  Adaptix C2 in Action Establishing Startup Persistence.md",
+    "05 Images/Pasted image 20250523104555.png",
+    "05 Images/Pasted image 20250523104430.png",
+    "05 Images/Pasted image 20250523104111.png",
     "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/08 -  Adaptix C2 in Action Building a Listener and Implanting the GOAD NHA SQL Server.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/07-  Adding Adaptix C2 to NHA-GOAD Lab.md",
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/z_Attack Canvas.canvas",
+    "05 Images/Pasted image 20250520203026.png",
+    "05 Images/Pasted image 20250520202409.png",
+    "05 Images/Pasted image 20250520182843.png",
+    "05 Images/Pasted image 20250520182825.png",
+    "05 Images/Pasted image 20250520181921.png",
+    "05 Images/Pasted image 20250520181906.png",
+    "05 Images/Pasted image 20250520181358.png",
     "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/01 - How To Setup a Purple Team Cyber Range with NHA-GOAD & Elastic SIEM on Ludis - AUTOMATED.md",
     "README.md",
-    "05 Images/Pasted image 20241109215231.png",
-    "05 Images/Pasted image 20250517220025.png",
     "Password Cracking Lab.md",
     "06 Labs/Module 11 Mobile Device Security Lab.md",
     "06 Labs/Module 8 Email Security Lab.md",
@@ -183,10 +196,6 @@
     "06 Labs/Module 5.1 Security Devices iptables.md",
     "06 Labs/Module 5  Security Devices Lab.md",
     "06 Labs/Module 4  Password Security Breach Analysis Lab.md",
-    "05 Images/Pasted image 20250505095643.png",
-    "05 Images/Pasted image 20250323135023.png",
-    "05 Images/Pasted image 20241109224956.png",
-    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/07-  Adding Adaptix C2 to NHA-GOAD Lab.md",
     "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/06 - Setting Up Persistence With Sliver - Purple Team Cyber Range with NHA-GOAD 1.md",
     "06 Labs",
     "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/05 - Initial Access - Purple Team Cyber Range with NHA-GOAD.md",
@@ -196,16 +205,7 @@
     "06 Labs/Module 7 Secure Web Browsing Practices.md",
     "06 Labs/Module 13  Incidence Response.md",
     "06 Labs/Module 12 Network Security vpn.md",
-    "06 Labs/Module 6.2 Public Key.md",
-    "05 Images/Pasted image 20250505095020.png",
-    "05 Images/Pasted image 20250505092448.png",
-    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series/02 Purple Team Cyber Range with NHA-GOAD - How To connect To Ludus with Wireguard.md",
-    "02 OSEP Study Notes/Untitled.md",
-    "01  Video Companion Notes/Snapshotsbnbanns.md",
-    "05 Images/Pasted image 20241109225535.png",
-    "05 Images/Pasted image 20241109225509.png",
     "02 OSEP Study Notes/Untitled",
-    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series",
-    "06 - Images/obsidian git settings.png"
+    "01  Video Companion Notes/01- GOAD-NHA-Purple-Team-Series"
   ]
 }

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"0e72d68e04000a2d","type":"text","text":"| Hostname               | sql            |\n|------------------------|-----------------|\n| IP Address             | 10.3.10.33      |\n| User                   | localuser                 |\n| User Implant Bin Path  | c:\\ludus                 |\n| Escalated              | no          |\n| Admin Bin Path         |                 |\n| Persisted             | no          |\n| Persistence Bin Path   |                 |\n","x":-140,"y":60,"width":320,"height":320},
+		{"id":"6dde419a9a767e9a","type":"file","file":"05 Images/Pasted image 20250520181358.png","x":-839,"y":-260,"width":334,"height":260},
+		{"id":"4ad7337d81941ba1","type":"text","text":"Kali Attacker 10.3.99.2","x":-784,"y":0,"width":224,"height":60,"color":"1"},
+		{"id":"075ac8764ed30c5f","type":"file","file":"05 Images/Pasted image 20250520181921.png","x":-115,"y":-180,"width":275,"height":240},
+		{"id":"e557788e465b4942","type":"text","text":"sql injection attack, connected to Adaptix C2","x":-420,"y":-190,"width":250,"height":60},
+		{"id":"8505e2ce1c93a205","type":"text","text":"Using Adaptix C2 \nMaximize stealth over speed","x":-806,"y":60,"width":259,"height":100},
+		{"id":"606f510c4afa4182","type":"file","file":"05 Images/Pasted image 20250520182825.png","x":-365,"y":-653,"width":173,"height":173},
+		{"id":"95e9da5161eac8f3","type":"file","file":"05 Images/Pasted image 20250520182843.png","x":-192,"y":-649,"width":351,"height":165},
+		{"id":"fb51734c274f6519","type":"text","text":"# **NHA GOAD ATTACK CANVAS**","x":-320,"y":-480,"width":460,"height":50,"color":"6"},
+		{"id":"75136562ab9a74b8","type":"text","text":"  ### **sql **","x":-29,"y":-240,"width":99,"height":60},
+		{"id":"2c32d7bc3a7bcb3e","type":"text","text":"## **Starting Point **","x":-784,"y":-400,"width":250,"height":60},
+		{"id":"c018e3804a11131c","type":"text","text":"  ### **kali **","x":-726,"y":-320,"width":99,"height":60},
+		{"id":"9cbf2eb202fdf325","type":"file","file":"05 Images/Pasted image 20250520203026.png","x":640,"y":-780,"width":1347,"height":869},
+		{"id":"45b3e370932f6be7","type":"text","text":"# **## What is a BOF**\n\n- **BOF (Beacon Object File):**  \n    A lightweight, position-independent C program compiled into an object file (`.o`) that can be executed directly in the memory of a compromised host by a red team agent (like Cobalt Strike Beacon or Adaptix C2).\n    \n- **Purpose:**  \n    BOFs are used to extend the functionality of the agent without writing to disk, allowing red teamers to run custom post-exploitation tasks (such as credential dumping, process injection, or persistence) in a stealthy and OPSEC-safe manner.\n    \n- **Advantages:**\n    \n    - Runs in-memory only (minimizing forensic artifacts)\n        \n    - Fast execution and low detection profile\n        \n    - Easily customized for specific operations","x":609,"y":303,"width":1071,"height":697,"color":"6"}
+	],
+	"edges":[
+		{"id":"8e311a27be5e212a","fromNode":"6dde419a9a767e9a","fromSide":"right","toNode":"075ac8764ed30c5f","toSide":"left"}
+	]
+}
